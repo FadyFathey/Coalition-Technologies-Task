@@ -26,8 +26,8 @@ To work with this project, you'll need:
 
 1. **Clone the Repository**: Clone this repository to your local machine.
     ```shell
-    git clone [repository URL]
-    cd [repository name]
+    git clone [https://github.com/FadyFathey/Coalition-Technologies-Task.git]
+    cd [BreadcrumbsCoalition-Technologies-Task]
     ```
 
 2. **Install Dependencies** (if applicable): If you are using any package manager such as npm for dependencies, run:
